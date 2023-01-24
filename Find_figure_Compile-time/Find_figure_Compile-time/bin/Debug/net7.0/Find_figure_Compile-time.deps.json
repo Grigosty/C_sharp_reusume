@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Find_figure_Compile-time/1.0.0": {
+        "dependencies": {
+          "AreaLib": "1.0.0.0"
+        },
+        "runtime": {
+          "Find_figure_Compile-time.dll": {}
+        }
+      },
+      "AreaLib/1.0.0.0": {
+        "runtime": {
+          "AreaLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Find_figure_Compile-time/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AreaLib/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
