@@ -1,0 +1,36 @@
+C:\Users\Admin\Desktop\учеба\Конспекты лекций\алгоритмизация си шарп\AreaLib\AreaLib\bin\Debug\net7.0\AreaLib.deps.json
+C:\Users\Admin\Desktop\учеба\Конспекты лекций\алгоритмизация си шарп\AreaLib\AreaLib\bin\Debug\net7.0\AreaLib.dll
+C:\Users\Admin\Desktop\учеба\Конспекты лекций\алгоритмизация си шарп\AreaLib\AreaLib\bin\Debug\net7.0\AreaLib.pdb
+C:\Users\Admin\Desktop\учеба\Конспекты лекций\алгоритмизация си шарп\AreaLib\AreaLib\obj\Debug\net7.0\AreaLib.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\учеба\Конспекты лекций\алгоритмизация си шарп\AreaLib\AreaLib\obj\Debug\net7.0\AreaLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\учеба\Конспекты лекций\алгоритмизация си шарп\AreaLib\AreaLib\obj\Debug\net7.0\AreaLib.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\учеба\Конспекты лекций\алгоритмизация си шарп\AreaLib\AreaLib\obj\Debug\net7.0\AreaLib.AssemblyInfo.cs
+C:\Users\Admin\Desktop\учеба\Конспекты лекций\алгоритмизация си шарп\AreaLib\AreaLib\obj\Debug\net7.0\AreaLib.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\учеба\Конспекты лекций\алгоритмизация си шарп\AreaLib\AreaLib\obj\Debug\net7.0\AreaLib.dll
+C:\Users\Admin\Desktop\учеба\Конспекты лекций\алгоритмизация си шарп\AreaLib\AreaLib\obj\Debug\net7.0\refint\AreaLib.dll
+C:\Users\Admin\Desktop\учеба\Конспекты лекций\алгоритмизация си шарп\AreaLib\AreaLib\obj\Debug\net7.0\AreaLib.pdb
+C:\Users\Admin\Desktop\учеба\Конспекты лекций\алгоритмизация си шарп\AreaLib\AreaLib\obj\Debug\net7.0\ref\AreaLib.dll
+C:\Users\Admin\Desktop\учеба\мои проекты\Задание для работы\AreaLib\AreaLib\bin\Debug\net7.0\AreaLib.deps.json
+C:\Users\Admin\Desktop\учеба\мои проекты\Задание для работы\AreaLib\AreaLib\bin\Debug\net7.0\AreaLib.dll
+C:\Users\Admin\Desktop\учеба\мои проекты\Задание для работы\AreaLib\AreaLib\bin\Debug\net7.0\AreaLib.pdb
+C:\Users\Admin\Desktop\учеба\мои проекты\Задание для работы\AreaLib\AreaLib\obj\Debug\net7.0\AreaLib.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\учеба\мои проекты\Задание для работы\AreaLib\AreaLib\obj\Debug\net7.0\AreaLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\учеба\мои проекты\Задание для работы\AreaLib\AreaLib\obj\Debug\net7.0\AreaLib.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\учеба\мои проекты\Задание для работы\AreaLib\AreaLib\obj\Debug\net7.0\AreaLib.AssemblyInfo.cs
+C:\Users\Admin\Desktop\учеба\мои проекты\Задание для работы\AreaLib\AreaLib\obj\Debug\net7.0\AreaLib.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\учеба\мои проекты\Задание для работы\AreaLib\AreaLib\obj\Debug\net7.0\AreaLib.dll
+C:\Users\Admin\Desktop\учеба\мои проекты\Задание для работы\AreaLib\AreaLib\obj\Debug\net7.0\refint\AreaLib.dll
+C:\Users\Admin\Desktop\учеба\мои проекты\Задание для работы\AreaLib\AreaLib\obj\Debug\net7.0\AreaLib.pdb
+C:\Users\Admin\Desktop\учеба\мои проекты\Задание для работы\AreaLib\AreaLib\obj\Debug\net7.0\ref\AreaLib.dll
+C:\Users\Admin\Desktop\учеба\мои проекты\AreaLib\AreaLib\bin\Debug\net7.0\AreaLib.deps.json
+C:\Users\Admin\Desktop\учеба\мои проекты\AreaLib\AreaLib\bin\Debug\net7.0\AreaLib.dll
+C:\Users\Admin\Desktop\учеба\мои проекты\AreaLib\AreaLib\bin\Debug\net7.0\AreaLib.pdb
+C:\Users\Admin\Desktop\учеба\мои проекты\AreaLib\AreaLib\obj\Debug\net7.0\AreaLib.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\учеба\мои проекты\AreaLib\AreaLib\obj\Debug\net7.0\AreaLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\учеба\мои проекты\AreaLib\AreaLib\obj\Debug\net7.0\AreaLib.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\учеба\мои проекты\AreaLib\AreaLib\obj\Debug\net7.0\AreaLib.AssemblyInfo.cs
+C:\Users\Admin\Desktop\учеба\мои проекты\AreaLib\AreaLib\obj\Debug\net7.0\AreaLib.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\учеба\мои проекты\AreaLib\AreaLib\obj\Debug\net7.0\AreaLib.dll
+C:\Users\Admin\Desktop\учеба\мои проекты\AreaLib\AreaLib\obj\Debug\net7.0\refint\AreaLib.dll
+C:\Users\Admin\Desktop\учеба\мои проекты\AreaLib\AreaLib\obj\Debug\net7.0\AreaLib.pdb
+C:\Users\Admin\Desktop\учеба\мои проекты\AreaLib\AreaLib\obj\Debug\net7.0\ref\AreaLib.dll
