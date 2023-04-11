@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\учеба\мои проекты\FigureOfLissaju\FigureOfLissaju\bin\Debug\FigureOfLissaju.exe.config
+C:\Users\Admin\Desktop\учеба\мои проекты\FigureOfLissaju\FigureOfLissaju\bin\Debug\FigureOfLissaju.exe
+C:\Users\Admin\Desktop\учеба\мои проекты\FigureOfLissaju\FigureOfLissaju\bin\Debug\FigureOfLissaju.pdb
+C:\Users\Admin\Desktop\учеба\мои проекты\FigureOfLissaju\FigureOfLissaju\obj\Debug\FigureOfLissaju.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\учеба\мои проекты\FigureOfLissaju\FigureOfLissaju\obj\Debug\FigureOfLissaju.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\учеба\мои проекты\FigureOfLissaju\FigureOfLissaju\obj\Debug\FigureOfLissaju.Form1.resources
+C:\Users\Admin\Desktop\учеба\мои проекты\FigureOfLissaju\FigureOfLissaju\obj\Debug\FigureOfLissaju.Properties.Resources.resources
+C:\Users\Admin\Desktop\учеба\мои проекты\FigureOfLissaju\FigureOfLissaju\obj\Debug\FigureOfLissaju.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\учеба\мои проекты\FigureOfLissaju\FigureOfLissaju\obj\Debug\FigureOfLissaju.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\учеба\мои проекты\FigureOfLissaju\FigureOfLissaju\obj\Debug\FigureOfLissaju.exe
+C:\Users\Admin\Desktop\учеба\мои проекты\FigureOfLissaju\FigureOfLissaju\obj\Debug\FigureOfLissaju.pdb
