@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Консольные задачи на построение алгоритма/1.0.0": {
+        "runtime": {
+          "Консольные задачи на построение алгоритма.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Консольные задачи на построение алгоритма/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
